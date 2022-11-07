@@ -1,6 +1,6 @@
-Hello I'm Sharon Mats
+Hello I'm Sharon
 
-I am a Data Science Student
+I am a final year Data Science Student
 
 I will be posting my personal projects here
 
